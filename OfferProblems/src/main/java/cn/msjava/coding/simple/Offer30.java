@@ -35,9 +35,5 @@ public class Offer30 {
         public int min() {
             return B.peek();
         }
-
-
-
-
     }
 }
