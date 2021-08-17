@@ -15,6 +15,7 @@
         <module>DataStructure</module>
         <module>AlgorithmsProblems</module>
         <module>DesignPattern</module>
+        <module>LeetCodeProblems</module>
     </modules>
 
 

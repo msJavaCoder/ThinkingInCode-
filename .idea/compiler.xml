@@ -10,6 +10,7 @@
         <module name="OfferProblems" />
         <module name="DesignPattern" />
         <module name="AlgorithmsProblems" />
+        <module name="LeetCodeProblems" />
         <module name="LinkedProblems" />
         <module name="StackAndQueue" />
         <module name="DataStructure" />
